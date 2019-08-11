@@ -1,6 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+
 ---
+
+I am a PhD Candidate in the Economics Department at Columbia University.
+
+My research focuses on the analysis of tax policy, firm behavior, and inequality.
+
+*Email*: l.pessina@columbia.edu
