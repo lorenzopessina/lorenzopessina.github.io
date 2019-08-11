@@ -13,7 +13,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-name: My website
 title: Your awesome title
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -27,10 +26,11 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.16.5"
 plugins:
   - jekyll-feed
-
+  - jekyll-include-cache
+  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
