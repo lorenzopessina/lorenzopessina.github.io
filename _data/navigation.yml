@@ -1,0 +1,17 @@
+# Site navigation links
+
+main:
+- title: Home
+  url: /index/
+
+- title: Research
+  url: /research/
+
+- title: Teaching
+  url: /teaching/
+
+- title: CV
+  url: /cv/
+
+- title: Personal
+  url: /personal/

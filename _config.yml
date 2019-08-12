@@ -8,7 +8,7 @@ subtitle: PhD Candidate in Economics
 description: Lorenzo Pessina website economics
 url : https://lorenzopessina.github.io
 repository: lorenzopessina/lorenzopessina.github.io
-logo: "assets/images/columbia_logo.jpg"
+# logo: "assets/images/columbia_logo.jpg"
 
 # Build settings
 markdown: kramdown
