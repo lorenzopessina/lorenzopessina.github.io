@@ -13,7 +13,7 @@ repository: lorenzopessina/lorenzopessina.github.io
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.16.5"
-minimal_mistakes_skin: "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "air" # "default" , "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
