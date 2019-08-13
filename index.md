@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Welcome
 sidebar:
   - image: assets/images/Pessina_1.jpg
 ---
