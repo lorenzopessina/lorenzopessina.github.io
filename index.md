@@ -1,6 +1,9 @@
 ---
 layout: home
 title: Welcome
+classes: wide
+header: 
+  overlay_image: /assets/images/cinque-terre.jpeg
 sidebar:
   - image: assets/images/Pessina_1.jpg
 ---
