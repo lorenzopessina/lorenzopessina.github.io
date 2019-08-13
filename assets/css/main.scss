@@ -2,7 +2,18 @@
 # Only the main Sass file needs front matter (the dashes are enough) 
 ---
 
-@import "minimal-mistakes";
+@charset "utf-8";
+
+/* colors */
+$background-color: white;
+/*
+$masthead-link-color: red;
+$text-color:
+$link-color:
+*/
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
 
 html {
   font-size: 10px; // change to whatever
