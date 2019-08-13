@@ -3,7 +3,7 @@ layout: home
 title: Welcome
 classes: wide
 header: 
-  overlay_image: /assets/images/cinque-terre.jpeg
+  overlay_image: /assets/images/cinque-terre.jpg
 sidebar:
   - image: assets/images/Pessina_1.jpg
 ---
