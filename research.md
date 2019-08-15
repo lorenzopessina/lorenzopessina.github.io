@@ -3,6 +3,7 @@ layout: single
 title: Research
 classes: wide
 description: Research Projects
+tags: research
 header: 
   overlay_image: /assets/images/cinque-terre.jpg
   

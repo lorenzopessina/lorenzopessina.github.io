@@ -3,6 +3,7 @@ layout: single
 title: Teaching
 classes: wide
 description: Teaching
+tags: teaching
 header: 
   overlay_image: /assets/images/cinque-terre.jpg
 
