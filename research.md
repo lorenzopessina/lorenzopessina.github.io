@@ -5,7 +5,7 @@ classes: wide
 description: Research Projects
 tags: research
 header: 
-  overlay_image: /assets/images/finger-lakes2.jpg
+  overlay_image: /assets/images/san-fruttuoso.jpg
   
 ---
 

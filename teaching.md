@@ -5,7 +5,7 @@ classes: wide
 description: Teaching
 tags: teaching
 header: 
-  overlay_image: /assets/images/san-fruttuoso.jpg
+  overlay_image: /assets/images/finger-lakes2.jpg
 
 ---
 
