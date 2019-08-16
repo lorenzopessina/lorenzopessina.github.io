@@ -5,13 +5,13 @@ main:
   url: 
 
 - title: Research
-  url: /research/
+  url: /research
 
 - title: Teaching
-  url: /teaching/
+  url: /teaching
 
 - title: CV
-  url: /cv/
+  url: /cv
 
 - title: Personal
-  url: /personal/
+  url: /personal
