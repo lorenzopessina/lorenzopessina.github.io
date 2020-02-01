@@ -11,7 +11,7 @@ main:
   url: /teaching
 
 - title: CV
-  url: cv/Pessina_cv.pdf
+  url: /cv/Pessina_cv.pdf
 
 - title: Personal
   url: /personal
