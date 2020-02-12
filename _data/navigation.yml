@@ -6,10 +6,12 @@ main:
 
 - title: Research
   url: /research
+  
+- title: CV
+  url: /cv/Pessina_cv.pdf
 
 - title: Teaching
   url: /teaching
 
-- title: CV
-  url: /cv/Pessina_cv.pdf
+
 
