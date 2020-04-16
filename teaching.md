@@ -1,23 +1,26 @@
 ---
 layout: single
 title: Teaching
-classes: wide
 description: Teaching
 tags: teaching
 header: 
-  overlay_image: /assets/images/finger-lakes2.jpg
+  overlay_image: /assets/images/london.jpg
 
 ---
 
-### *Main Instructor*
+### Instructor
 
-Intermediate Macroeconomics, *Summer 2018*
+- *Intermediate Macroeconomics* \\
+Summer 2018
 
-### *Teaching Assistant*
+### Teaching Assistant
 
-Public Economics, Undergraduate, *Fall 2018*, Instructor: Wojciech Kopczuk
+- *Public Economics*, TA for Wojciech Kopczuk        
+Fall 2018
 
-Intermediate Macroeconomics, Undergraduate, *Fall 2016, 2017, 2019*, Instructor: Xavier Sala-i-Martin \\
-**Honors:** *Wueller Teaching Award runner up, Fall 2017*
-
-Urban Economics, Undergraduate, *Spring 2018*, Instructor: Jason Barr
+- *Intermediate Macroeconomics*, TA for Xavier Sala-i-Martin        
+Fall 2016, 2017, 2019 \\
+*Wueller Teaching Award (runner up), Fall 2017*
+  
+- *Urban Economics*, TA for Jason Barr \\
+Spring 2018
