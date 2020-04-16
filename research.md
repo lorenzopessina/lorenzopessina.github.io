@@ -13,7 +13,7 @@ header:
 ### Who Writes the Check to the Government Does Matter: Evidence from Firm-to-Firm Links
 This paper estimates the effect of tax withholding on firms's trade relations, exploiting a reform to the collection of Value Added Tax (VAT) implemented in Italy in 2015. Analyzing confidential data on firm-to-firm transactions for nearly 100,000 firms, I present two main findings. First, tax withholding creates a large increase in the credit position vis-à-vis the tax authority among treated firms. The reform increases the proportion of firms that register a credit at the end of the tax year by 6 percentage points, a 10 percent increase. Second, I find that firms are more likely to stop dealing with their clients subject to the new withholding rules. After the reform, firm-to-firm transactions subject to VAT withholding are 5 percentage points more likely to be severed, compared to links not affected by the reform. This paper provides empirical evidence against the canonical proposition that remittance responsibility is irrelavant to the consequences of a tax and describes the behavioral response of firms.
 
-- **Honors:** An earlier version of this paper obtained the *Vickrey Prize* for best third year paper in the department.
+- **Honors:** An earlier version of this paper obtained the *Vickrey Prize* awarded every year to the best paper written by third year students at the economics department at Columbia.
 
 ### Importing Inequality: The Rise of Foreign Top Earners in the UK
 (joint with Arun Advani, Felix Koenig, and Andy Summers)     
