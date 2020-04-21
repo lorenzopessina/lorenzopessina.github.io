@@ -4,7 +4,7 @@ title: Research
 description: Research Projects
 tags: research
 header: 
-  overlay_image: /assets/images/pavia.jpg
+  overlay_image: /assets/images/ghislieri.jpg
   
 ---
 
