@@ -15,9 +15,9 @@ This paper provides empirical evidence against the irrelevance proposition and q
 
 - **Honors:** An earlier version of this paper obtained the *Vickrey Prize* awarded every year to the best paper written by third year students at the economics department at Columbia.
 
-### Importing Inequality: The Rise of Foreign Top Earners in the UK
+### Importing Inequality: Migration, Mobility, and the Top 1 percent
 (joint with Arun Advani, Felix Koenig, and Andy Summers)     
-Top incomes have risen dramatically in Anglo-Saxon countries in recent decades, while such growth was modest in most continental European countries. This paper studies the extent to which growth in UK top income shares is explained by the sorting of top earners across countries. Income tax returns on the full population of UK top earners are used to account for selection effects at the top of the income distribution. Accounting for migration of top earners sheds light on the cause of top income growth, can explain differences in top income growth across countries, brings models of top income inequality closer in line with the data, and alters the optimal design of tax schedules.
+In this paper we study the contribution of migrants to the rise in UK top incomes. Using administrative data on the universe of UK taxpayers we show migrants are concentrated at the top of the income distribution, with migrants twice as prevalent in the top 0.1 percent as anywhere in the bottom 96 percent. These high incomes are predominantly from labour, rather than capital, and migrants are concentrated in only a handful of industries, predominantly finance. Almost all (85%) of the growth in the UK top 1% income share over the past 20 years can be attributed to migration.
 
 ****
 
