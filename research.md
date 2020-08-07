@@ -15,7 +15,7 @@ This paper provides empirical evidence against the irrelevance proposition and q
 
 - **Honors:** An earlier version of this paper obtained the *Vickrey Prize* awarded every year to the best paper written by third year students at the economics department at Columbia.
 
-### Importing Inequality: Migration, Mobility, and the Top 1 percent
+### Importing Inequality: Migration, Mobility, and the Top 1 percent [draft coming soon!]
 (joint with Arun Advani, Felix Koenig, and Andy Summers)     
 In this paper we study the contribution of migrants to the rise in UK top incomes. Using administrative data on the universe of UK taxpayers we show migrants are concentrated at the top of the income distribution, with migrants twice as prevalent in the top 0.1 percent as anywhere in the bottom 96 percent. These high incomes are predominantly from labour, rather than capital, and migrants are concentrated in only a handful of industries, predominantly finance. Almost all (85%) of the growth in the UK top 1% income share over the past 20 years can be attributed to migration.
 
