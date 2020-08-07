@@ -8,7 +8,7 @@ header:
 
 ---
 
-### Instructor
+### Main Instructor
 
 - *Intermediate Macroeconomics* \\
 Summer 2018 \\
