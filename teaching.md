@@ -26,5 +26,5 @@ Fall 2018 \\
 [Evaluations]({% link /assets/evals/fall2018.pdf %})
 
 - *Urban Economics*, TA for Jason Barr \\
-Spring 2018
+Spring 2018 \\
 [Evaluations]({% link /assets/evals/spring2018.pdf %})
