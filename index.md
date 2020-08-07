@@ -7,11 +7,22 @@ sidebar:
   - image: assets/images/Pessina_1.jpg
 ---
 
+<style>
+  .bottom-space {
+     margin-bottom: 1cm;
+  }
+</style>
+
+
 I am a fifth year PhD student in economics at **Columbia University** in New York.
 
-My research focuses on **public economics** and **tax policy**. I use administrative data to analyze how firms adapt to changes in the way taxes are collected by the government.         
-In another set of projects, I investigate the prevalence of **migrants** at the top of the income distribution and their contribution to increases in **income inequality** in the UK. 
+<p class="bottom-space">
+My research focuses on <strong>public economics</strong> and <strong>tax policy</strong>. I use administrative data to analyze how firms adapt to changes in the way taxes are collected by the government.
+</p>
+<p class="bottom-space">
+In another set of projects, I investigate the prevalence of <strong>migrants</strong> at the top of the income distribution and their contribution to increases in <strong>income inequality</strong> in the UK.
+</p>
 
-My CV is [here](https://lorenzopessina.com/cv/Pessina_cv.pdf). 
+My CV is [here]({% link /cv/Pessina_cv.pdf %}). 
 
 *Email*: l.pessina@columbia.edu
