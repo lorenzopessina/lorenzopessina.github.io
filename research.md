@@ -17,7 +17,7 @@ This paper provides empirical evidence against the irrelevance proposition and q
 
 - **Honors:** An earlier version of this paper obtained the *Vickrey Prize* awarded every year to the best paper written by third year students at the economics department at Columbia.
 
-### Importing Inequality: Migration, Mobility, and the Top 1 percent  <br/>
+### Importing Inequality: Immigration and the Top 1 percent  <br/>
 (joint with Arun Advani, Felix Koenig, and Andy Summers) <br/> 
 <span style="color:dodgerblue"> <strong> _[draft out soon]_ </strong> </span> 
 <span style="color:navy"><strong>_[<a href="/assets/slides/AdvaniKoenigPessinaSummers_slides.pdf" style="color:navy">slides</a>]_</strong></span>
