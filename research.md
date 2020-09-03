@@ -21,7 +21,7 @@ This paper provides empirical evidence against the irrelevance proposition and q
 (joint with Arun Advani, Felix Koenig, and Andy Summers) <br/> 
 <span style="color:dodgerblue"> <strong> _[draft out soon]_ </strong> </span> 
 <span style="color:navy"><strong>_[<a href="/assets/slides/AdvaniKoenigPessinaSummers_slides.pdf" style="color:navy">slides</a>]_</strong></span>
-<span style="color:royalblue"> <strong> _[video coming soon!]_ </strong> </span>
+<span style="color:royalblue"><strong>_[<a href="https://youtu.be/A25e9KPowok?t=3736" style="color:royalblue">video - ESWC Presentation</a>]_</strong></span>
 
 In this paper we study the contribution of migrants to the rise in UK top incomes. Using administrative data on the universe of UK taxpayers we show migrants are concentrated at the top of the income distribution, with migrants twice as prevalent in the top 0.1 percent as anywhere in the bottom 96 percent. These high incomes are predominantly from labour, rather than capital, and migrants are concentrated in only a handful of industries, predominantly finance. Almost all (85%) of the growth in the UK top 1% income share over the past 20 years can be attributed to migration.
 
