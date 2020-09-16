@@ -19,7 +19,7 @@ This paper provides empirical evidence against the irrelevance proposition and q
 
 ### Importing Inequality: Immigration and the Top 1 percent  <br/>
 (joint with Arun Advani, Felix Koenig, and Andy Summers) <br/> 
-<span style="color:dodgerblue"> <strong> _[draft out soon]_ </strong> </span> 
+<span style="color:red"> <strong> _[!draft out tomorrow 9/17!]_ </strong> </span> 
 <span style="color:navy"><strong>_[<a href="/assets/slides/AdvaniKoenigPessinaSummers_slides.pdf" style="color:navy">slides</a>]_</strong></span>
 <span style="color:royalblue"><strong>_[<a href="https://youtu.be/A25e9KPowok?t=3736" style="color:royalblue">video - ESWC Presentation</a>]_</strong></span>
 
