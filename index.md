@@ -14,7 +14,7 @@ sidebar:
 </style>
 
 
-<p>I am a sixth year PhD student in economics at Columbia University in New York and I am on the job market. </p>
+<p>I am a PhD student in economics at Columbia University and I am on the job market. </p>
 
 <p> My main research field is public economics, with a focus on taxation of businesses and inequality. I am also interested in migration and empirical corporate finance. </p>
           
