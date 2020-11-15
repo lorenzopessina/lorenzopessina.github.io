@@ -12,8 +12,9 @@ header:
 
 # Research Papers
 
-### Who Writes the Check to the Government Does Matter: Evidence from Firm-to-Firm Links (Job Market Paper) <br/>
-<span style="color:navy"><strong>_[<a href="https://lorenzopessina.com/assets/papers/Pessina_JMP_VAT.pdf" style="color:navy">Job Market Paper</a>]_ </strong> </span>  <br/>
+### Who Writes the Check to the Government Does Matter: Evidence from Firm-to-Firm Links <br/>
+<span style="color:navy"><strong>_[<a href="https://lorenzopessina.com/assets/papers/Pessina_JMP_VAT.pdf" style="color:navy">Job Market Paper</a>]_ </strong> </span> 
+<span style="color:navy"><strong>_[2-minute video coming soon]_ </strong> </span>  <br/>
 <strong>Abstract:</strong> The design of tax collection is largely considered to be inconsequential in the academic literature, yet policy makers frequently implement reforms to it. While reforms to tax collection are aimed at easing the costs of the tax system and curbing evasion, they also alter cash-flows to each side of a transaction. Therefore, all firms --not just those evading-- might adapt their operations in order to comply with these rules. Combining a new administrative dataset on firm-to-firm links from Italy and a quasi-experimental research design, I study how firms and markets adapt to a reform of the collection of Value Added Tax. I present three main findings. First, links affected by the reform are 2.5pp more likely to become inactive. For those that remain active after the reform, I can rule out an increase in the value of the link larger than 0.3%, suggesting a limited enforcement effect of the reform. Second, firm outcomes worsened for businesses. Third, as the burden of the new rules is spread unevenly across firms, markets also adjust. I find that markets more exposed to the reform became more concentrated. 
 
 - **Honors:** An earlier version of this paper obtained the *Vickrey Prize* awarded every year to the best paper written by third year students at the economics department at Columbia.
