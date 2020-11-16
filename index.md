@@ -19,7 +19,7 @@ sidebar:
 <p> My main research field is public economics, with a focus on taxation of businesses and inequality. I am also interested in migration and empirical corporate finance. </p>
           
 <p class="bottom-space">
-In my <strong>job market paper</strong>, I use administrative data to analyze how transactions, firms and markets adapt to changes in the way taxes are collected by the government.
+In my <strong><a href="https://lorenzopessina.com/assets/papers/Pessina_JMP_VAT.pdf" style="color:navy">job market paper</a></strong>, I use administrative data to analyze how transactions, firms and markets adapt to changes in the way taxes are collected by the government.
 </p>
 
 <p>I will be available for interviews at the <strong>2020 Virtual EEA Meeting</strong> in Nottingham and at the <strong>2021 Virtual ASSA Meetings</strong> in Chicago.</p>
