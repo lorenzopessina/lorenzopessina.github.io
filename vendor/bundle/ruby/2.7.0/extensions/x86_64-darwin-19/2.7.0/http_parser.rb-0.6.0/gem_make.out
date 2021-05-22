@@ -1,0 +1,16 @@
+current directory: /Users/lorenzop/Documents/lorenzopessina.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/Users/lorenzop/.rbenv/versions/2.7.3/bin/ruby -I /Users/lorenzop/.rbenv/versions/2.7.3/lib/ruby/2.7.0 -r ./siteconf20210522-32426-1ino3pj.rb extconf.rb
+creating Makefile
+
+current directory: /Users/lorenzop/Documents/lorenzopessina.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/lorenzop/Documents/lorenzopessina.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/lorenzop/Documents/lorenzopessina.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20210522-32426-tisy7o

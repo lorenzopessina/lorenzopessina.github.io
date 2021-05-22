@@ -2,7 +2,7 @@
 layout: single
 title: Welcome
 header: 
-  overlay_image: /assets/images/salento.jpg
+  overlay_image: /assets/images/paghisano.jpg
 sidebar:
   - image: assets/images/Pessina_1.jpg
 ---
