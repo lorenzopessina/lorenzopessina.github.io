@@ -4,7 +4,7 @@ title: Teaching
 description: Teaching
 tags: teaching
 header: 
-  overlay_image: /assets/images/london.jpg
+  overlay_image: /assets/images/colli-tortonesi.jpg
 
 ---
 
