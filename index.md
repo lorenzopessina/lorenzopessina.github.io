@@ -14,9 +14,9 @@ sidebar:
 </style>
 
 
-<p>I am a PhD student in economics at Columbia University. </p>
+<p>I am a Postdoctoral Researcher at ZEW - Leibniz Centre for European Economic Research in Mannheim, Germany. </p>
 
-<p> My main research field is public economics, with a focus on taxation of businesses and inequality. I am also interested in migration and empirical corporate finance. </p>
+<p>My main research field is public economics, with a focus on taxation of businesses and inequality. I am also interested in migration and empirical corporate finance. </p>
           
 My CV is [here]({% link /cv/Pessina_cv.pdf %}). 
 
