@@ -20,4 +20,4 @@ sidebar:
           
 My CV is [here]({% link /cv/Pessina_cv.pdf %}). 
 
-*Email*: l.pessina@columbia.edu
+*Email*: Lorenzo.Pessina@zew.de
